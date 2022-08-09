@@ -1,0 +1,72 @@
+body{
+    background-color: hsl(0, 0%, 95%);
+    font-size: 25px;
+}
+.CARDS{
+    display: flex;
+    width: 1440px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    padding: 55px;
+    
+}
+.first-card{
+    background-color: hsl(31, 77%, 52%);
+    align-items: center;
+    padding: 50px;
+    
+    
+}
+.second-card{
+    background-color: hsl(184, 100%, 22%);
+    align-items: center;
+    padding: 50px;
+}
+.third-card{
+    background-color: hsl(179, 100%, 13%);
+    align-items: center;
+    padding: 50px;
+}
+h2{
+    color: white;
+    font-family: 'Big Shoulders Display', cursive;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    line-height: 50px;
+}
+
+.buttons{
+    background-color: white;
+    width: 70%;
+    padding: 20px;
+    border-radius: 40px;
+    border: 1px solid white;
+    font-size: 20px;
+    font-family: 'Lexend Deca', sans-serif;
+    
+    
+    
+
+}
+.come{
+    padding: 25px;
+    margin-top: 90px;
+}
+#first-button{
+    color: hsl(31, 77%, 52%);
+}
+#second-button{
+    color: hsl(184, 100%, 22%);
+}
+#third-button{
+    color:  hsl(179, 100%, 13%);
+}
+    
