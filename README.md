@@ -1,6 +1,6 @@
 # web3Bridge Task(2) - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+[![Screenshot-20.png](https://i.postimg.cc/ZYFJszkv/Screenshot-20.png)](https://postimg.cc/grj9r52G)
 
 ## Welcome! 👋
 
